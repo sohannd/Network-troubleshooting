@@ -12,9 +12,9 @@ fi
 
 echo
 echo "Author : SOHAN ND"
-echo "Tool   : Network Scanner"
+echo "Tool   : Easy-ping"
 echo "Mode   : Kali Linux"
-echo
+echo " "
 
 
 
@@ -36,6 +36,6 @@ echo "$cmdip"
 sleep 1
 echo " "
 echo " "
-echo ".......SCAN COMPLETED......."
+echo ".......completed......."
 
 
